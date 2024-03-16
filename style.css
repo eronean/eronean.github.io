@@ -1,0 +1,64 @@
+/* Other styles remain the same */
+
+body {
+    font-family: Raleway;
+    margin-left: 15px;
+    text-align: left;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    color: #111D13;
+    padding: 20px;
+    text-align: center;
+}
+
+.kuva {
+    float: none;
+    margin-right: 20px;
+    margin-left:150px;
+    width: 200px; /* Adjust as necessary */
+    height: 250px; /* Adjust as necessary */
+    
+}
+
+h1, h2 {
+    color: #111D13;
+    text-align: center;
+}
+
+section {
+    margin: 20px;
+    background-color: white;
+}
+
+
+
+
+nav#navbar {
+    background-color: #A1CCA5;
+    overflow: hidden;
+}
+
+nav#navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+nav#navbar ul li {
+    display: inline-block; 
+    margin-right: 20px;
+}
+
+nav#navbar ul li a {
+    text-decoration: none;
+    color: #111D13;
+    padding: 14px 16px;
+    display: block; 
+}
+
+
+
