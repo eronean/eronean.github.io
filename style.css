@@ -15,10 +15,11 @@ header {
 }
 
 .kuva {
-    display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+    float: none;
+    margin-right: 20px;
+    margin-left:150px;
+    width: 200px; 
+    height: 250px; 
     
 }
 
